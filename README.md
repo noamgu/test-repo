@@ -1,4 +1,4 @@
-## Running the app
+## Running the app!
 
     npm install
     npm start
